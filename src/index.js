@@ -22,3 +22,6 @@
 
 // console.log(book);
 // console.log(updated);
+import store from "./store";
+
+console.log(store);
